@@ -284,4 +284,5 @@ pyrightconfig.json
 
 # Fin de https://www.toptal.com/developers/gitignore/api/python,django,visualstudiocode
 
-<gitdjangovenv>
+<gitdjangovenv> 
+
